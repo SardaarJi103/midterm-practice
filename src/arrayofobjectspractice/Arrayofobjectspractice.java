@@ -16,7 +16,7 @@ public class Arrayofobjectspractice {
     /**
      * @param args the command line arguments
      this is karanveer Singh doing practice of github
-     */
+      this is cloning*/
     public static void main(String[] args)
     {
         // TODO code application logic here
